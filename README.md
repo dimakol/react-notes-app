@@ -48,14 +48,31 @@ Display post: please ignore the files attachments section
 ## Tech/framework used
 
 - [ReactJS](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Installation
 
 **Running in development environment**
 
+git, npm and node softwares should be installed before moving on
+
+- git clone https://github.com/dimakol/react-notes-app.git
+- cd react-notes-app/
 - npm install
 - npm run dev
 
 **Building**
 
 - npm run build
+
+## Credits
+
+- [React Notes App Tutorial from Scratch | A CSS and React Project you can add to your Portfolio!](https://youtu.be/8KB3DHI-QbM)
+
+## Deployed to Github pages
+
+https://dimakol.github.io/react-notes-app/
+
+## License
+
+MIT © Dima Kolyas
