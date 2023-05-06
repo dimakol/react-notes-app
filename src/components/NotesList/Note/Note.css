@@ -1,0 +1,41 @@
+.note {
+    padding: 1rem;
+    min-height: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.note-legend {
+    max-width: 250px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.note-content {
+    max-height: 145px;
+    max-width: 200px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.note-content p {
+    margin: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.note-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.note-actions {
+    display: flex;
+    align-items: center;
+}
+
+.update-icon, .delete-icon {
+    cursor: pointer;
+}

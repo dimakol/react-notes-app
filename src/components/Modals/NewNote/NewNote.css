@@ -1,0 +1,8 @@
+.input-author-name {
+    width: 95%;
+}
+
+#textarea_content {
+    width: 95%;
+    resize: none;
+}
