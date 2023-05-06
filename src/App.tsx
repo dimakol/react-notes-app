@@ -11,25 +11,25 @@ const defaultNotes = [
     id: nanoid(),
     authorName: "Dmitry Kolyas",
     content: "This is my first note!",
-    date: "05/05/2023",
+    date: "5/5/2023",
   },
   {
     id: nanoid(),
     authorName: "Dmitry Kolyas",
     content: "This is my second note!",
-    date: "06/05/2023",
+    date: "5/6/2023",
   },
   {
     id: nanoid(),
     authorName: "Dmitry Kolyas",
     content: "This is my third note!",
-    date: "06/05/2023",
+    date: "5/6/2023",
   },
   {
     id: nanoid(),
     authorName: "Dmitry Kolyas",
     content: "This is new note!",
-    date: "06/05/2023",
+    date: "5/6/2023",
   },
 ];
 
