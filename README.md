@@ -1,6 +1,4 @@
-# Task description
-
-## Notes App
+# Notes App
 
 ## Requirements
 
@@ -52,18 +50,22 @@ Display post: please ignore the files attachments section
 
 ## Installation
 
-**Running in development environment**
+**Running Locally**
 
 git, npm and node softwares should be installed before moving on
 
-- git clone https://github.com/dimakol/react-notes-app.git
-- cd react-notes-app/
-- npm install
-- npm run dev
+```bash
+git clone https://github.com/dimakol/react-notes-app.git
+cd react-notes-app
+npm install
+npm run dev
+```
 
-**Building**
+**Building for production**
 
-- npm run build
+```bash
+npm run build
+```
 
 ## Credits
 
@@ -75,4 +77,6 @@ https://dimakol.github.io/react-notes-app/
 
 ## License
 
-MIT © Dima Kolyas
+(The MIT License)
+
+Copyright © 2023 Dima Kolyas
